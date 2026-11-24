@@ -1,14 +1,14 @@
 ktor-http/ktor-http-cio/common/src/io/ktor/http/cio/ChunkedTransferEncoding.kt
   s_70edea914efac2::t_4e01559eb6c833 55,60,67,76-81
-ktor-http/ktor-http-cio/jvm/test/io/ktor/tests/http/cio/ChunkedTest.kt
-  s_70edea914efac2::t_5433adad48e2f6 66-93,328-334
 ktor-client/ktor-client-cio/jvm/test/io/ktor/client/engine/cio/ConnectErrorsTest.kt
   s_70edea914efac2::t_5efad433ae1d2d 189-229
+ktor-http/ktor-http-cio/jvm/test/io/ktor/tests/http/cio/ChunkedTest.kt
+  s_70edea914efac2::t_5433adad48e2f6 66-93,328-334
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "f02ea179f8af143a4946e97fc53268b0fcd74d0c",
+  "base_commit_sha": "4ed2831982abcc5cdbd22551e8e9813ac5276307",
   "prompts": {},
   "sessions": {
     "s_70edea914efac2": {
