@@ -8,7 +8,7 @@ ktor-http/ktor-http-cio/common/src/io/ktor/http/cio/ChunkedTransferEncoding.kt
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "dd10237d2c668f794853cdd533ccec95ea424344",
+  "base_commit_sha": "11ac401146f454380aeca72511fb2070501c4547",
   "prompts": {},
   "sessions": {
     "s_70edea914efac2": {
